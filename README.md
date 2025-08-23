@@ -18,7 +18,7 @@ This project demonstrates the use of Java, Spring Boot, React, MySQL to implemen
 
  🛠️ Technologies Used
 
-* Programming Language: Java, SQL, React, JavaScript
+* Programming Languages: Java, SQL, JavaScript
 * Database: MySQL
 * Tools & Platforms: IntelliJ, VS Code, Maven, Postman, ViteJS, NPM, Axios
 * Version Control: Git & GitHub
