@@ -2,7 +2,9 @@
 
 🔹 Description
 
-Employee Management System (EMS) is a software application designed to handle employee records efficiently. It allows organizations to store, update, search, and manage employee details in a centralized system. This project demonstrates the use of **Java (or Python, MySQL, etc. – replace with your tech stack)** to implement real-world CRUD (Create, Read, Update, Delete) operations.
+Employee Management System (EMS) is a software application designed to handle employee records efficiently.
+It allows organizations to store, update, search, and manage employee details in a centralized system. 
+This project demonstrates the use of Java, Spring Boot, React, MySQL to implement real-world CRUD (Create, Read, Update, Delete) operations.
 
 
 ✨ Features
@@ -11,15 +13,15 @@ Employee Management System (EMS) is a software application designed to handle em
 * 📋 View and search employee records
 * ✏️ Update employee information
 * ❌ Delete employee records
-* 💾 Database integration for persistent storage (e.g., MySQL / SQLite)
+* 💾 Database integration for persistent storage
 * 🖥️ Simple and user-friendly interface
 
  🛠️ Technologies Used
 
-* Programming Language: **Java / Python / C#** (mention what you used)
-* Database: **MySQL / SQLite / PostgreSQL**
-* Tools: **Eclipse / IntelliJ / VS Code**
-* Version Control: **Git & GitHub**
+* Programming Language: Java, SQL, React, JavaScript
+* Database: MySQL
+* Tools & Platforms: IntelliJ, VS Code, Maven, Postman, ViteJS, NPM, Axios
+* Version Control: Git & GitHub
 
 
 🚀 How to Run
